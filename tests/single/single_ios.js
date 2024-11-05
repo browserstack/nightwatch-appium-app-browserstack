@@ -10,6 +10,3 @@ describe('IOS app test', function () {
         .pause(2000);
     });
   });
-  
-  
-  
