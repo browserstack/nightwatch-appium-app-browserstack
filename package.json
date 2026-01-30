@@ -23,6 +23,6 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@nightwatch/browserstack": "^0.2.1"
+    "@nightwatch/browserstack": "^3.8.0"
   }
 }
